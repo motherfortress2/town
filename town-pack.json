@@ -3,12 +3,12 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/town/town.json",
-                "path": "assets/media/rooms/town/",
+                "url": "/town.json",
+                "path": "/",
                 "key": "town"
             },
             {
-                "url": "assets/media/rooms/town/town-physics.json",
+                "url": "/town-physics.json",
                 "type": "json",
                 "key": "town-physics"
             }
